@@ -6,6 +6,7 @@ This project aims to analyze the unemployment trends in India. It explores vario
 ## Dataset
 The dataset includes unemployment data sourced from kaggle. It contains information on unemployment rates, demographic details, employment sectors, and time series data.
 
+#
 # 2. Iris Flower Classification
 
 ## Overview
@@ -20,5 +21,28 @@ The dataset consists of 150 samples from each of the three species. Each sample 
 
 ## Installation
 To set up the project environment, run the following commands:
-```bash
+
 pip install numpy pandas scikit-learn matplotlib
+
+#
+# 3. Sales Prediction Project
+
+## Introduction
+This project aims to predict future sales using historical sales data. It leverages various Python libraries and machine learning techniques to forecast sales trends.
+
+## Dataset
+The dataset used in this project contains historical sales data, including features like date, product ID, store ID, and sales figures.
+
+## Prerequisites
+- Python 3.7+
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- TensorFlow (Optional for advanced models)
+
+## Installation
+To install the required Python libraries, run the following command:
+```bash
+pip install pandas numpy matplotlib scikit-learn tensorflow
+
